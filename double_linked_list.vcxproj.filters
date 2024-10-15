@@ -9,5 +9,25 @@
     <ClCompile Include="main.cpp">
       <Filter>main</Filter>
     </ClCompile>
+    <ClCompile Include="DoublyLinkedList.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="Array.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DoublyLinkedList.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="Queue.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="Array.h">
+      <Filter>main</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
